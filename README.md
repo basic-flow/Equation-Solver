@@ -5,7 +5,7 @@ Quadratic and Linear Equation Solver WIth Detailed Analysis
 ![Screenshot 2025-04-04 170310](https://github.com/user-attachments/assets/ee2d2645-4f65-4120-8c33-9a745841274a)
 
 
-```
+
 ## Usage
 **Example**
 ```bash
